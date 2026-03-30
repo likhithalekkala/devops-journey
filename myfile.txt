@@ -1,0 +1,7 @@
+Hello Lilly
+lilly is learning linux
+server started successfully
+error: connection timeout
+user azadmin logged in
+error: disk space low
+server running normally

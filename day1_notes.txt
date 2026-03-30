@@ -1,0 +1,2 @@
+Day 1 - Linux basics
+pwd, ls, cd, cat, grep, echo, cp, mv, rm
