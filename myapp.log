@@ -1,0 +1,10 @@
+ERROR: connection failed
+INFO: server started
+ERROR: database connection timeout
+INFO: request received
+ERROR: timeout on request
+INFO: user logged in
+ERROR: disk space low
+INFO: backup completed
+ERROR: service crashed
+ERROR: new critical error

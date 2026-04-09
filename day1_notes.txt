@@ -2,3 +2,4 @@ Day 1 - Linux basics
 pwd, ls, cd, cat, grep, echo, cp, mv, rm
 learned file permissions - chmod numbers and symbols
 learned file permissions - chmod numbers and symbols
+Day 1 complete - terminal, navigation, file operations, grep, find, filesystem structure
