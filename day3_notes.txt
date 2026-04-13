@@ -1,0 +1,6 @@
+ps aux - snapshot of all processes
+top/htop - live process monitor
+kill PID - graceful stop
+kill -9 PID - force stop
+df -h - disk space
+free -h - RAM usage
