@@ -1,5 +1,5 @@
-apple
+APPLE
 banana
-apple
+APPLE
 orange
 banana
